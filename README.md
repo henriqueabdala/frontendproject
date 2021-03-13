@@ -1,6 +1,6 @@
-# Node + RabbitMQ
-
+# Projeto Web Moderna
 Controle simples de drone, feito com Vue.JS como base para o front-end, Node.js usado para desenvolvimento do micro-serviço.
+Projeto baseado [neste repositório](https://github.com/fernandodgatti/fiap-integration-FGH)
 
 ## Instalação
 
